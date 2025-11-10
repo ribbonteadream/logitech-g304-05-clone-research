@@ -13,6 +13,8 @@ A chip marked BYKC KT8P01 at location U1 on the back side of the board. This tur
 
 The mouse sensor is a S201B from Instant Microelectronics which supports multiple DPI settings. 
 
+## Overall opinion of the mouse
+- Eh. It's...fine. Don't expect quality here, it's similar to most other cheapo mice. Definitely usable in games.
 
 ## Special Thanks
 - My good friend @RobbieNeko for helping locate the KT8P01 datasheet and freeing it from it's javascript PDF viewer hell <3
