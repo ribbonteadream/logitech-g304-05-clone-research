@@ -5,6 +5,7 @@ Some of my initial findings of a cheap (4 dollar USD) logitech G304 / G305 clone
 - Will not connect to Logitech G Hub
 - DPI Button changes different colors (In order from slowest to fastest: Blue > Yellow > Red > Green)
 - In linux, the device ID is 32c2:0066
+- The quick start leaflet has an odd font and odd spacing (e.g ©2020Logitech)
 
 ## Initial findings
 
